@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I'm an experienced **MERN stack developer** and **AI enthusiast**, passionate about building clean, scalable web applications and exploring deep learning for real-world impact.
+
+- 🔭 I’m currently working on a **professional-grade KPI Dashboard** built with **React**, **Hero UI**, and **TailwindCSS**, focusing on metrics like Attitude, Skills, and Performance.
+- 🌱 I’m currently diving deeper into **medical AI**, especially **image-based classification models** using **CNNs** and **Kaggle medical datasets**.
+- 👯 I’m looking to collaborate on frontend projects that require **high-performance UI/UX** or **AI/ML integrations**.
+- 🤔 I’m looking for help with optimizing **CNN model accuracy and performance** on medical image datasets.
+- 💬 Ask me about **React dashboards**, **UI/UX best practices**, or **deep learning for healthcare**.
+- 📫 How to reach me: [Your Email] or connect via [LinkedIn/GitHub/Twitter if available]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I combine **pixel-perfect frontend design** with **AI-driven backend logic** to build meaningful tech solutions.
+
 <!--
 **dewbulegoda20/dewbulegoda20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
