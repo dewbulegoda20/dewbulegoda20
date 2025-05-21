@@ -7,7 +7,7 @@ I'm an experienced **MERN stack developer** and **AI enthusiast**, passionate ab
 - 👯 I’m looking to collaborate on frontend projects that require **high-performance UI/UX** or **AI/ML integrations**.
 - 🤔 I’m looking for help with optimizing **CNN model accuracy and performance** on medical image datasets.
 - 💬 Ask me about **React dashboards**, **UI/UX best practices**, or **deep learning for healthcare**.
-- 📫 How to reach me: [Your Email] or connect via [LinkedIn/GitHub/Twitter if available]
+- 📫 How to reach me: dewmini.bulegodaarachchi@gmail.com
 
 
 <!--
