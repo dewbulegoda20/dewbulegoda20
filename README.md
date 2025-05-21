@@ -9,7 +9,7 @@ I'm an experienced **MERN stack developer** and **AI enthusiast**, passionate ab
 - 💬 Ask me about **React dashboards**, **UI/UX best practices**, or **deep learning for healthcare**.
 - 📫 How to reach me:  
   📧 [dewmini.bulegodaarachchi@gmail.com](mailto:dewmini.bulegodaarachchi@gmail.com)  
-  🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/dewmini-bulegodaarachchi/)
+  🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/dewminibulegodaarachchi/)
 
 ---
 
