@@ -29,8 +29,7 @@ I’ve worked on impactful projects including health prediction systems, deep le
 ---
 
 ## 📬 Let's Connect
-📧 dewmini.bulegodaarachchi@gmail.com  
-🔗 [dewmini.bulegodaarachchi@gmail.com](mailto:dewmini.bulegodaarachchi@gmail.com)   
-💻  [Connect with me on LinkedIn](https://www.linkedin.com/in/dewminibulegodaarachchi/)
+📧 dewmini.bulegodaarachchi@gmail.com   
+💻 [Connect with me on LinkedIn](https://www.linkedin.com/in/dewminibulegodaarachchi/)
 
 I’m currently open to AI/ML or Data Science internship opportunities — ready to start immediately!
